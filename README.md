@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-| 12.05.2023  23:00   |    10      |
+| 03.06.2023  23:00   |    10      |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -32,8 +32,8 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
     
 - **Bank Centralny** obserwuje wzrost cen produktów oraz obroty na rynku.
     Ustala bieżący poziom inflacji. 
-    Celem Banku stara się utrzymanie stałego wpływu podatkowego liczone jako 
-    iloczyn inflacji i obrotów przy danej inflacji.
+    Celem Banku jest utrzymanie stałego wpływu podatkowego liczonego jako 
+    iloczyn bieżącej inflacji i obrotów przy danej inflacji.
     
     
 ### Wykorzystaj:
@@ -50,10 +50,10 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
 	Rozwiązanie zadania może zostać wykonane w dowolnym języku / technologii.
 	
 ### Uwaga 1
-Projekt powinien również zawierać odpowiednie testy jednostkowe do implementowanej funkcjonalności.
+Projekt powinien zawierać odpowiednie testy jednostkowe do implementowanej funkcjonalności.
 
 ### Uwaga 2
 Dla uproszczenia implementacji można rozważyć implementację opartą na turach.
 
 ### Uwaga 3
-Zaimplementowany model powinien być stabilny i odporny na zakłócenia.
+Zaimplementowany model powinien być stabilny i odporny na zakłócenia - przedstawić odpowiednie testy stabilności i odporności na zakłócenia.
